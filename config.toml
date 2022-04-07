@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://LuisFerVR.com"
 languageCode = "en-us"
 title = "Bitácora de Viaje"
 theme = "hugo-winston-theme"
@@ -12,8 +12,8 @@ paginate = 3
 
 [params]
   google_analytics_id = ""
-  # Hey Explorer aquí pon tu twitter 👇
-  twitter_handle = "@visual_partner"
+  # Hey Explorer aquí pon tu Instagram 👇
+  twitter_handle = "@LuisFerVR"
   showAuthorOnHomepage = true
   showAuthorOnPosts = false
   showPostsOnHomepage = false
