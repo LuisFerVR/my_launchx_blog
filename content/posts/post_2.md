@@ -8,7 +8,6 @@ description: 'Desde on boarding con Python hasta backend con javascript (NodeJS)
 # Actualmmente estamos en la segunda semana de la mision Backend.
 
 
-## Segunda semana abordamos objetos javascript
 >
 ###  JS
 >> - Definimos lo que es un objeto javascript.
