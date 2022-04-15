@@ -5,7 +5,7 @@ description: 'Desde on boarding con Python hasta backend con javascript (NodeJS)
 ---
 
 
-# Actualmmente estamos en la segunda semana de la mision Backend.
+- # Actualmmente estamos en la segunda semana de la mision Backend.
 
 
 >
