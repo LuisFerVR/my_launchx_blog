@@ -1,6 +1,6 @@
 ---
 title: " retroalimentación: JS || POO"
-date: 2022-22-04
+date: 04-22-2022
 description: 'Desde on boarding con Python hasta backend con javascript (NodeJS)'
 ---
 
