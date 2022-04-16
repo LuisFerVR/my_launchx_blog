@@ -16,6 +16,7 @@ description: 'Desde on boarding con Python hasta backend con javascript (NodeJS)
 >>    * Every
 >>    * Filter
 >>    * Some
+>>    * map
 >>    * entre otros...
 >> - Llevamos a la práctica cada coasa de lo anteriormente mencionado medinate un entregable.
 
