@@ -17,11 +17,8 @@ mis expectativas ante este curso después de adquirir un pequeño conocimiento a
     </ul>
 
 
----
 title: " retroalimentación"
 date: 2022-04-07
-description: 'Desde on boarding con Python hasta backend con javascript (NodeJS)'
----
 
 Hey! Este es el contenido del nuevo post, así que comenzaré a platicarles mi experiencia.
 
@@ -31,11 +28,8 @@ Hey! Este es el contenido del nuevo post, así que comenzaré a platicarles mi e
 Actualmente tuvimos la oportunidad de elegir entre  mision Backend con JAVA o con JS (Node JS) y estamos en la primer semana con el MC Carlo que nos  está brindando de su experiencia y conocimiento como en esta actividad de post con GitHub.
 
 
----
 title: " retroalimentación"
 date: 2022-04-15
-description: 'Desde on boarding con Python hasta backend con javascript (NodeJS)'
----
 
 
 # Actualmmente estamos en la segunda semana de la mision Backend.
