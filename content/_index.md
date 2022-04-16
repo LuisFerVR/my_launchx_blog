@@ -9,12 +9,12 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 🚀
 mis expectativas ante este curso después de adquirir un pequeño conocimiento acerca del frontEnd son:
-    <ul>
-      <li>Aprender a diseñar aplicaciones backEnd</li>
-      <li>Dar un pasito a conocer git y GitHub </li>
-      <li>Adquirir buenos consejos de los MC </li>
-      <li>Conocer más herramientas y cosas de este mundo </li>
-    </ul>
+    
+- Aprender a diseñar aplicaciones backEnd
+- Dar un pasito a conocer git y GitHub
+- Adquirir buenos consejos de los MC
+- Conocer más herramientas y cosas de este mundo
+   
 
 
 title: " retroalimentación"
@@ -32,7 +32,7 @@ title: " retroalimentación"
 date: 2022-04-15
 
 
-# Actualmmente estamos en la segunda semana de la mision Backend.
+## Actualmmente estamos en la segunda semana de la mision Backend.
 
 
 >
