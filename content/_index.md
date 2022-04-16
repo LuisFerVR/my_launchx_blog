@@ -14,10 +14,10 @@ mis expectativas ante este curso después de adquirir un pequeño conocimiento a
 - Dar un pasito a conocer git y GitHub
 - Adquirir buenos consejos de los MC
 - Conocer más herramientas y cosas de este mundo
-   
+
 
 ---
-title: " retroalimentación"
+title: "retroalimentación"
 date: 2022-04-07
 ---
 
