@@ -1,6 +1,6 @@
 ---
 title: "Contexto"
-date: 2022-04-07
+date: 2022-04-06
 description: 'Desde on boarding con Python hasta backend con javascript (NodeJS)'
 ---
 
