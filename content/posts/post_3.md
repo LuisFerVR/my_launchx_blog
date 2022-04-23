@@ -15,3 +15,8 @@ Es considerada, una técnica para el desarrollo de software, la cual tienen como
 ## Importancia de TDD
 
 TDD es de suma importancia, ya que desde como podemos observar en su concepto, esto nos avala acerca del correcto funcionamiento del código, lo cual significa que podremos tratar de comprender el funcionamiento del código desde esta parte del proyecto, las cuales son estas pruebas de unidad.
+
+
+## Nota:
+
+- Todo proyecto de Software debe tener pruebas de unidad.
