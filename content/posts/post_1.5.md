@@ -7,7 +7,7 @@ description: 'Desde on boarding con Python hasta backend con javascript (NodeJS)
 
 # Importancia de las herramientas en el desarrollo de software.
 
-**Leñadores con hachas sin filo
+# **Leñadores con hachas sin filo**
 
 Así como suena un tanto absurdo la idea de que un leñador vaya a cortar madera con una Hacha sin filo, así pasa en el mundo del Desarrollo de Software cuando
 desarrolladores no se dan a la tarea de conocer bien de las herramientas que tienen  a la amno para llevar a cabo de mejor manera su trabajo.
