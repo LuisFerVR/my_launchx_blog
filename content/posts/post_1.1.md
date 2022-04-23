@@ -14,3 +14,5 @@ ya quen en esta plataforma de trabajo podemos mantener albergados nuestros proye
 
 Git es una herramienta de trabajo, y esta herramienta de trabajo es un SO con su propia linea de comandos,algo a lo que se le llama: Git Bash, que es la terminal de Git.
 Git es la manera de interctuar con la plataforma GitHub, pero desde la línea de comandos(su Git Bash).
+
+Git se puede feniri brevemente como el sistema de control de versiones.
