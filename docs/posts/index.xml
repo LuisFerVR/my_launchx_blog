@@ -58,7 +58,7 @@
       <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://LuisFerVR.com/posts/post_1.4/</guid>
-      <description>¿ Qué es un Fork ? Decimos que harémos un Fork a un repositorio (proyecto) al referirnos que haremos Forking el Forking solo contiene una copia separada del repositorio y no hay ningún comando involucrado.
+      <description>¿ Qué es un Fork ? Decimos que harémos un Fork a un repositorio (proyecto) al referirnos que haremos Forking, el Forking solo contiene una copia separada del repositorio y no hay ningún comando involucrado.
 ¿ Qué es clone ? La clonación se realiza a través del comando &#39; git clone &#39; y es un proceso de recepción de todos los archivos de código a la máquina local.
 ¿ Qué es un Pull Request?</description>
     </item>
