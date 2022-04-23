@@ -64,16 +64,6 @@
     </item>
     
     <item>
-      <title> retroalimentación: GitHub</title>
-      <link>https://LuisFerVR.com/posts/post_1/</link>
-      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://LuisFerVR.com/posts/post_1/</guid>
-      <description>Hey! Este es el contenido del nuevo post, así que comenzaré a platicarles mi experiencia.  Comenzando desde hace 7 o 8 semanas con el Onboarding el cual fué un curso introductorio y amigable a Python, impartido por la MC Fer.
- Posteriormente pasamos a Frontend con el MC Rodrigo , las cuales fueron muy calidas por su forma de ser y en las cuales se adquirieron cosas completamente nuevas como: Actualización de html5 (en mi caso), Vista de CSS, Introduccion a JS, conocer qué son APIs, Vue JS y su comparativa con Angular.</description>
-    </item>
-    
-    <item>
       <title> Sitio web estático &amp;&amp; Hugo</title>
       <link>https://LuisFerVR.com/posts/post_1.2/</link>
       <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
@@ -81,6 +71,16 @@
       <guid>https://LuisFerVR.com/posts/post_1.2/</guid>
       <description>Sitios web estáticos. Un sitio web estátcio es una página web, la cual, no permite que los visitantes u usuarios, puedan interactuar con ella. Es decir: Este blog es un claro ejemplo de una web static, ya que pueden observar la información de este blog, pero no hay manera de interactuar con el mismo.
 Hugo Para mí: Es una herramienta de automatización para generar o desplegar cambios en webs estáticas a traves de ediciones generadas por el propietario de la web.</description>
+    </item>
+    
+    <item>
+      <title>Contexto</title>
+      <link>https://LuisFerVR.com/posts/post_1/</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://LuisFerVR.com/posts/post_1/</guid>
+      <description>Hey! Este es el contenido del nuevo post, así que comenzaré a platicarles mi experiencia con un previo contexto a continuación&amp;hellip;  Comenzando desde hace 7 o 8 semanas con el Onboarding el cual fué un curso introductorio y amigable a Python, impartido por la MC Fer.
+ Posteriormente pasamos a Frontend con el MC Rodrigo , las cuales fueron muy calidas por su forma de ser y en las cuales se adquirieron cosas completamente nuevas como: Actualización de html5 (en mi caso), Vista de CSS, Introduccion a JS, conocer qué son APIs, Vue JS y su comparativa con Angular.</description>
     </item>
     
     <item>
