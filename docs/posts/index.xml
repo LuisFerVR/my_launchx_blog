@@ -107,7 +107,7 @@ Hugo Para mí: Es una herramienta de automatización para generar o desplegar ca
       <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://LuisFerVR.com/posts/post_1.6/</guid>
-      <description>Git. comandos básicos en la Git Bash:  git init // Inicia un repositorio local git add // Añade los ficheros al Index git status // Comprueba el status del arbol de trabajo git diff namefile// muestra los cambios en el archivo indicado git stash // ignorar cambios y guarda como borrador con git stash pop y otras git commit // Commit los cambios git push // Enviar nuestros cambios al repositorio remoto git pull // Descarga los últimos cambios del repositorio remoto git clone // Clona, o realizar una copia desde el repositorio remoto al local git log // Brinda información como autor correo y fecha Y el cómic o descripción del cambio que hizo el autor .</description>
+      <description>Git. comandos básicos en la Git Bash:  git init // Inicia un repositorio local. git add // Añade los ficheros al stage. git status // Comprueba el status del arbol de trabajo. git diff namefile// muestra los cambios en el archivo indicado. git stash // ignorar cambios y guarda como borrador con git stash pop y otras. git commit // confirmar los cambios. git push // Enviar nuestros cambios al repositorio remoto.</description>
     </item>
     
     <item>
