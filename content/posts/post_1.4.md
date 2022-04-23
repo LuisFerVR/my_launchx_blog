@@ -7,7 +7,7 @@ description: 'Desde on boarding con Python hasta backend con javascript (NodeJS)
 
 # ¿ Qué es un Fork ?
 
-Decimos que harémos un Fork a un repositorio (proyecto) al referirnos que haremos Forking
+Decimos que harémos un Fork a un repositorio (proyecto) al referirnos que haremos Forking,
 el Forking solo contiene una copia separada del repositorio y no hay ningún comando involucrado.
 
 
@@ -18,10 +18,10 @@ La clonación se realiza a través del comando ' git clone ' y es un proceso de 
 
 # ¿ Qué es un Pull Request?
 
- Es una petición que el propietario de un fork de un repositorio hace al propietario del repositorio original 
+ Es una petición que el propietario de un fork de un repositorio hace al propietario del repositorio original, 
  para que este último incorpore los commits que están en el fork.
  
  
 # ¿ Qué es un repo de GitHub?
-  Realiza un seguimiento de los cambios en los archivos dentro de una carpeta.
+  Este Realiza un seguimiento de los cambios en los archivos dentro de una carpeta.
   Puede crear cualquier número de repositorios de Git locales en el equipo, cada uno almacenado en su propia carpeta.
