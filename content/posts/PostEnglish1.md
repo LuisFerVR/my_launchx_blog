@@ -1,3 +1,9 @@
+---
+title: "MyFirstPostInEnglish"
+date: 2022-07-18
+description: 'Topic: Simple past'
+---
+
 * Today i saw the simple past in my english class, i readed a text in past and i did activitys in past.
 * In the class i learned some words that i didn´t know, as: ate seafood, boat trip,sunbathed, made sandcastles.
 * Too i ate vegetables and some chicken in the breakfast.
