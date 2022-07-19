@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://LuisFerVR.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>MySecondPostInEnglish</title>
+      <link>https://LuisFerVR.com/posts/post2english/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://LuisFerVR.com/posts/post2english/</guid>
+      <description>Today I didn´t have my English class</description>
+    </item>
+    
+    <item>
       <title>MyFirstPostInEnglish</title>
       <link>https://LuisFerVR.com/posts/post1english/</link>
       <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
