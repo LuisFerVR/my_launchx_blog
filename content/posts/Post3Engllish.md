@@ -4,19 +4,19 @@ date: 2022-07-20
 description: 'Topic: Information Questions:WH'
 ---
 
-**Today i see abaut the WH questions**
+**Today I tell you about WH questions**
 * who? for people
 * why? for reasons
-* where? Place
+* where? Places
 * What? In general
 * when? dates
 * wich? as what, but with limits (options)
-* whose? for nouns
+* whose? for belongings
 * how? in spanish cómo
 
-Structure: WH+Auxiliar Verb+Subject/pronoun+verb+complement
+Structure: WH + Auxiliar Verb + Subject/pronoun + verb + complement.
 
-open questions with WH (information questions),expmle:
+open questions with WH (information questions),exapmle:
 When did You visit my apartment?
 
 
