@@ -1,7 +1,7 @@
 ---
 title: "MySixthPostInEnglish"
 date: 2022-08-02
-description: 'Topic: present continiuos for future arrangments'
+description: 'Topic: present continuous for future arrangments'
 ---
 
 * I am having a voleibol class next friday (some sure).
